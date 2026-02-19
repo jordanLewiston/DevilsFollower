@@ -11,7 +11,7 @@ Can Ben control his darkness, or will it control him? The answer hides in riddle
 Horror, RPG
 
 ## Platforms
-Windows 10-11
+Linux, MacOS
 
 ## System Requirements
 - **CPU:** Intel Core i5  
